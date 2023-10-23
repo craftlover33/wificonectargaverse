@@ -1,0 +1,147 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "",
+	  "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Guía",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/conectarwifi%2Ficon.png?alt=media&token=73a1c8aa-eafb-4853-a97a-5d6602dde30b&_gl=1*jdohz2*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjg4NjEuNDAuMC4w"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Guía",
+      "title": "Como Aprender Conectarse a WiFi Muy Fácil Y Rápido",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/conectarwifi%2Ficon.png?alt=media&token=73a1c8aa-eafb-4853-a97a-5d6602dde30b&_gl=1*jdohz2*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjg4NjEuNDAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/conectarwifi%2FComo%20Aprender%20Conectarse%20a%20WiFi%20Muy%20F%C3%A1cil%20Y%20R%C3%A1pido.html?alt=media&token=fb624080-90d7-47f8-a7c6-917b34af0b6f&_gl=1*jj1hz9*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjg5ODIuNjAuMC4w",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "Guía",
+      "title": "Truco De Android Para Conecatrte a Cualquier Wifi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/conectarwifi%2Ficon.png?alt=media&token=73a1c8aa-eafb-4853-a97a-5d6602dde30b&_gl=1*jdohz2*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjg4NjEuNDAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/conectarwifi%2FTruco%20De%20Android%20Para%20Conecatrte%20a%20Cualquier%20Wifi.html?alt=media&token=8d231027-e72a-4404-826f-b7f05bfa3e48&_gl=1*v4wzf0*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjkwMTAuMzIuMC4w",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Guía",
+      "title": "Como Conectar Tu Movil a Una Red Wifi Sin Tener Su Clave",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/conectarwifi%2Ficon.png?alt=media&token=73a1c8aa-eafb-4853-a97a-5d6602dde30b&_gl=1*jdohz2*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjg4NjEuNDAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/conectarwifi%2FComo%20Conectar%20Tu%20Movil%20a%20Una%20Red%20Wifi%20Sin%20Tener%20Su%20Clave.html?alt=media&token=c367cb98-08c9-4576-86dd-fb9bbe1b3059&_gl=1*fczilj*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjkwMzUuNy4wLjA.",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Guía",
+      "title": "Que Te Compartan La Clave Para Conectarse a Wifi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/conectarwifi%2Ficon.png?alt=media&token=73a1c8aa-eafb-4853-a97a-5d6602dde30b&_gl=1*jdohz2*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjg4NjEuNDAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/conectarwifi%2FQue%20Te%20Compartan%20La%20Clave%20Para%20Conectarse%20a%20Wifi.html?alt=media&token=c0e132a5-5050-4b3c-a88b-572220ce76ed&_gl=1*a7se5t*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjkwNTguNjAuMC4w",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
